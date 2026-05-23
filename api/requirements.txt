@@ -1,0 +1,11 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+pydantic==2.7.0
+pydantic-settings==2.3.0
+google-generativeai==0.7.2
+supabase==2.4.6
+python-multipart==0.0.9
+slowapi==0.1.9
+loguru==0.7.2
+sentry-sdk[fastapi]==2.5.0
+Pillow==10.3.0
