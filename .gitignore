@@ -28,6 +28,7 @@ pip-delete-this-directory.txt
 
 # Portables & OS
 bin/node-v20.11.1-win-x64/
+bin/gh/
 Thumbs.db
 Desktop.ini
 .DS_Store
